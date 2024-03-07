@@ -1,0 +1,1 @@
+console.log("lu pada gimana sih")
